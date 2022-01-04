@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "naziv": "Audi A1",
+        "godina": "Godina proizvodnje 2010-2018",
+        "poster": "http://localhost:3000/images/audi/audi-a1.jpg"
+        
+
+    },
+
+    {
+        "id": 2,
+        "naziv": "Audi A2",
+        "godina": "Godina proizvodnje 1999-2005",
+        "poster": "http://localhost:3000/images/audi/audi-a2.jpg"
+        
+
+    },
+
+    {
+        "id": 3,
+        "naziv": "Audi A3",
+        "godina": "Godina proizvodnje 2003-2013",
+        "poster": "http://localhost:3000/images/audi/audi-a3.jpg"
+       
+    },
+
+    {
+        "id": 4,
+        "naziv": "Audi A4",
+        "godina": "Godina proizvodnje 2008-2015",
+        "poster": "http://localhost:3000/images/audi/audi-a4.jpg"
+       
+    },
+
+    {
+        "id": 5,
+        "naziv": "Audi A5",
+        "godina": "Godina proizvodnje 2007-2018",
+        "poster": "http://localhost:3000/images/audi/audi-a5.jpg"
+       
+    },
+
+    {
+        "id": 6,
+        "naziv": "Audi A6",
+        "godina": "Godina proizvodnje 2011-2018",
+        "poster": "http://localhost:3000/images/audi/audi-a6.jpg"
+       
+    },
+
+    {
+        "id": 7,
+        "naziv": "Audi A7",
+        "godina": "Godina proizvodnje 2010-2021",
+        "poster": "http://localhost:3000/images/audi/audi-a7.jpg"
+       
+    },
+
+    {
+        "id": 8,
+        "naziv": "Audi A8",
+        "godina": "Godina proizvodnje 2010-2020",
+        "poster": "http://localhost:3000/images/audi/audi-a8.jpg"
+       
+    }
+
+
+
+
+]
